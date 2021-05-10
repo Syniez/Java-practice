@@ -1,3 +1,3 @@
 # Java-practice
 ## my java practice repository
-+ Class inheritance
++ Inherit.java -> Class inheritance & constructor  example
