@@ -1,5 +1,6 @@
 package com.company;
 
+// abstract를 써서 추상 클래스임을 나타냄
 abstract class banquet {
     protected String irum;
     protected int inwon;
