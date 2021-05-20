@@ -1,5 +1,6 @@
 package com.company;
 
+// java는 다중상속을 지원하지 않기 때문에 유사한 기능인 인터페이스를 사용!
 interface Intogether {
     public void info_cost(int type_info);
 }
@@ -13,7 +14,7 @@ class mng_banquet {
     }
 }
 
-class mng_birth extends mng_banquet implements Intogether {
+class mng_birth extends mng_banquet implements Intogether {         // 인터페이스는 implements를 사용한다.
     public void info_cost(int type_info) {
         if (type_info == 1)
             cost = 9000;
