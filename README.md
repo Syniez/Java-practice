@@ -8,7 +8,7 @@ Using Windows10 & IntelliJ IDEA
 + ArrayList2.java -> ArrayList 메소드들 연습(2)
 + HashSet.java -> HashSet 메소드 연습
 + HashMap.java -> HashMap 메소드 연습
-+ Generic.java -> 
++ Generic.java -> 사용자 데이터타입 설정 generic class 연습
 + StringBuffer.java ->
 + Calendar.java -> 
 + DateFormat.java -> 
