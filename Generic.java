@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.*;
 
-class MakeGeneric<T> {
+class MakeGeneric<T> {      // T는 사용자가 데이터 타입을 지정하도록 함 (E도 있음)
     private T object;
 
     public void makeget() {
